@@ -1,6 +1,8 @@
 #Neural Network. With Text
+## Good Job Vimal...
 setwd("G:/vimal/data science/Analytical Edge/kaggle")
 set.seed(144)
+
 
 NewsTrain = read.csv("NYTimesBlogTrain.csv", stringsAsFactors=FALSE)
 
